@@ -46,7 +46,8 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
+![Screenshot1](Add screenshot 1 here with proper name) Add ![Screenshot 2025-02-09 111559](https://github.com/user-attachments/assets/69f40577-5667-4dc4-8eed-8e168a19d613)
+caption explaining what this shows
 
 ![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
 
@@ -73,13 +74,13 @@ Build Photos
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+[https://youtu.be/Al4OrGGDjAo?si=eRHLcp9gWEFuWZhO] Explain what the video demonstrates
 
 Additional Demos
-[Add any extra demo materials/links]
+[[Add any extra demo materials/links](https://youtu.be/Al4OrGGDjAo?si=eRHLcp9gWEFuWZhO)]
 
 Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
+[ATHIRA M]: [Typing]
+[ASHMI G SUNEER]: [Idea pitching and coding]
+[SNEKA S LAL]: [Road map]
 Made with ❤️ at TinkerHub
